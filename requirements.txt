@@ -1,3 +1,0 @@
-streamlit==1.21.0
-spacy==3.5.0
-pyngrok==5.1.0
