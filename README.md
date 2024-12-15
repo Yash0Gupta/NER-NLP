@@ -57,7 +57,7 @@ uploaded = files.upload()
 
 ### 4. Write Your Application Code
 
-Next, copy and paste your **TextInsight** app code (the Python script for Streamlit) into a cell in the Colab notebook. The code should be similar to this:
+Next, copy and paste your **TextInsight** app (app.py) code (the Python script for Streamlit) into a cell in the Colab notebook. The code should be similar to this:
 
 ```python
 import spacy
@@ -196,4 +196,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or inquiries, feel free to contact me at [yashgupta0212@gmail.com](yashgupta0212@gmail.com).
