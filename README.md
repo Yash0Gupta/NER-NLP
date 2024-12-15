@@ -199,4 +199,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, feel free to contact me at [yashgupta0212@gmail.com](yashgupta0212@gmail.com).
+For any questions or inquiries, feel free to contact me at 
+
+**YASH GUPTA** - [yashgupta0212@gmail.com](yashgupta0212@gmail.com).
