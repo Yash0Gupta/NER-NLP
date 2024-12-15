@@ -21,7 +21,10 @@
 
 You can view the demo video of how the app works below:
 
-[![TextInsight Demo](ner-nlp.mp4)](ner-nlp.mp4)
+
+https://github.com/user-attachments/assets/04971534-dba9-4c82-af30-1b06d237c465
+
+
 
 Here's a screenshot of the app in action:
 
